@@ -1,4 +1,22 @@
+# Sensitive files
 .env
+
+# Python files
 __pycache__/
 *.pyc
+
+# macOS system files
 .DS_Store
+
+# Virtual environment
+venv/
+
+# Logs
+*.log
+
+# Models
+models/
+
+# Data
+data/
+
